@@ -1,0 +1,23 @@
+body{
+    background-color: #eba014fc;
+}
+.header{
+    padding-bottom: 360px;
+    color: whitesmoke;
+    
+}
+
+
+li{
+    list-style: none;
+}
+.elements{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);  
+    font-weight: 900; 
+}
+.arrows{
+    display: inline;
+}
